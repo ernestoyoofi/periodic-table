@@ -1,0 +1,992 @@
+{
+  "lang_code": "id",
+  "language": "Indonesia",
+  "properties": {
+    "noble_gas": {
+      "name": "Gas Mulia",
+      "color": "#623842",
+      "group": "Nonlogam"
+    },
+    "nonmetals": {
+      "name": "Nonlogam lainnya",
+      "color": "#2a4165",
+      "group": "Nonlogam"
+    },
+    "metalloids": {
+      "name": "Metaloid",
+      "color": "#a6a9ab",
+      "group": "Metalloids"
+    },
+    "post-transition_metals": {
+      "name": "Logam miskin",
+      "color": "#507d9c",
+      "group": "Logam"
+    },
+    "transition_metals": {
+      "name": "Logam transisi",
+      "color": "#c0c0c0",
+      "group": "Logam"
+    },
+    "lanthanide": {
+      "name": "Lantanida",
+      "color": "#f090a0",
+      "group": "Logam"
+    },
+    "achinide": {
+      "name": "Aktinida",
+      "color": "#90e050",
+      "group": "Logam"
+    },
+    "alkaline_earth_metal": {
+      "name": "Logam Alkali Tanah",
+      "color": "#ffae00",
+      "group": "Logam"
+    },
+    "alkali_metal": {
+      "name": "Logam Alkali",
+      "color": "#f05af0",
+      "group": "Logam"
+    }
+  },
+  "detail_info": {
+    "hydrogen": {
+      "symbol": "H",
+      "name": "Hidrogen",
+      "energy_level": [1],
+      "radius": 0.79, 
+      "ionization": 13.598,
+      "weight": 1.008,
+      "properti": "nonmetals" 
+    },
+    "helium": {
+      "symbol": "He",
+      "name": "Helium",
+      "energy_level": [2],
+      "radius": 0.49,
+      "ionization": 24.587,
+      "weight": 4.0026,
+      "properti": "noble_gas"
+    },
+    "lithium": {
+      "symbol": "Li",
+      "name": "Litium",
+      "energy_level": [2, 1],
+      "radius": 2.05,
+      "ionization": 5.392,
+      "weight": 6.94,
+      "properti": "alkali_metal"
+    },
+    "beryllium": {
+      "symbol": "Be",
+      "name": "Berilium",
+      "energy_level": [2, 2],
+      "radius": 1.4,
+      "ionization": 9.323,
+      "weight": 9.0122,
+      "properti": "alkaline_earth_metal"
+    },
+    "boron": {
+      "symbol": "B",
+      "name": "Boron",
+      "energy_level": [2, 3],
+      "radius": 1.17,
+      "ionization": 8.298,
+      "weight": 10.81,
+      "properti": "metalloids"
+    },
+    "carbon": {
+      "symbol": "C",
+      "name": "Karbon",
+      "energy_level": [2, 4],
+      "radius": 0.91,
+      "ionization": 11.26,
+      "weight": 12.011,
+      "properti": "nonmetals"
+    },
+    "nitrogen": {
+      "symbol": "N",
+      "name": "Nitrogen",
+      "energy_level": [2, 5],
+      "radius": 0.75,
+      "ionization": 14.534,
+      "weight": 14.007,
+      "properti": "nonmetals"
+    },
+    "oxygen": {
+      "symbol": "O",
+      "name": "Oksigen",
+      "energy_level": [2, 6],
+      "radius": 0.65,
+      "ionization": 13.618,
+      "weight": 15.999,
+      "properti": "nonmetals"
+    },
+    "fluorine": {
+      "symbol": "F",
+      "name": "Fluor",
+      "energy_level": [2, 7],
+      "radius": 0.57,
+      "ionization": 17.423,
+      "weight": 18.998,
+      "properti": "nonmetals"
+    },
+    "neon": {
+      "symbol": "Ne",
+      "name": "Neon",
+      "energy_level": [2, 8],
+      "radius": 0.51,
+      "ionization": 21.565,
+      "weight": 20.180,
+      "properti": "noble_gas"
+    },
+    "sodium": {
+      "symbol": "Na",
+      "name": "Natrium",
+      "energy_level": [2, 8, 1],
+      "radius": 2.23,
+      "ionization": 5.139,
+      "weight": 22.990,
+      "properti": "alkali_metal"
+    },
+    "magnesium": {
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "energy_level": [2, 8, 2],
+      "radius": 1.72,
+      "ionization": 7.646,
+      "weight": 24.305,
+      "properti": "alkaline_earth_metal"
+    },
+    "aluminium": {
+      "symbol": "Al",
+      "name": "Aluminium",
+      "energy_level": [2, 8, 3],
+      "radius": 1.82,
+      "ionization": 5.986,
+      "weight": 26.982,
+      "properti": "post-transition_metals"
+    },
+    "silicon": {
+      "symbol": "Si",
+      "name": "Silikon",
+      "energy_level": [2, 8, 4],
+      "radius": 1.46,
+      "ionization": 8.152,
+      "weight": 28.085,
+      "properti": "metalloids"
+    },
+    "phosphorus": {
+      "symbol": "P",
+      "name": "Fosfor",
+      "energy_level": [2, 8, 5],
+      "radius": 1.23,
+      "ionization": 10.487,
+      "weight": 30.974,
+      "properti": "nonmetals"
+    },
+    "sulfur": {
+      "symbol": "S",
+      "name": "Sulfur",
+      "energy_level": [2, 8, 6],
+      "radius": 1.09,
+      "ionization": 10.36,
+      "weight": 32.06,
+      "properti": "nonmetals"
+    },
+    "chlorine": {
+      "symbol": "Cl",
+      "name": "Klor",
+      "energy_level": [2, 8, 7],
+      "radius": 0.97,
+      "ionization": 12.968,
+      "weight": 35.45,
+      "properti": "nonmetals"
+    },
+    "argon": {
+      "symbol": "Ar",
+      "name": "Argon",
+      "energy_level": [2, 8, 8],
+      "radius": 0.88,
+      "ionization": 15.76,
+      "weight": 39.948,
+      "properti": "noble_gas"
+    },
+    "potassium": {
+      "symbol": "K",
+      "name": "Kalium",
+      "energy_level": [2, 8, 8, 1],
+      "radius": 2.77,
+      "ionization": 4.341,
+      "weight": 39.098,
+      "properti": "alkali_metal"
+    },
+    "calcium": {
+      "symbol": "Ca",
+      "name": "Kalsium",
+      "energy_level": [2, 8, 8, 2],
+      "radius": 2.23,
+      "ionization": 6.113,
+      "weight": 40.078,
+      "properti": "alkaline_earth_metal"
+    },
+    "scandium": {
+      "symbol": "Sc",
+      "name": "Scandium",
+      "energy_level": [2, 8, 9, 2],
+      "radius": 2.09,
+      "ionization": 6.561,
+      "weight": 44.956,
+      "properti": "transition_metals"
+    },
+    "titanium": {
+      "symbol": "Ti",
+      "name": "Titanium",
+      "energy_level": [2, 8, 10, 2],
+      "radius": 2.0,
+      "ionization": 6.828,
+      "weight": 45.867,
+      "properti": "transition_metals"
+    },
+    "vanadium": {
+      "symbol": "V",
+      "name": "Vanadium",
+      "energy_level": [2, 8, 11, 2],
+      "radius": 1.92,
+      "ionization": 6.746,
+      "weight": 50.942,
+      "properti": "transition_metals"
+    },
+    "chromium": {
+      "symbol": "Cr",
+      "name": "Kromium",
+      "energy_level": [2, 8, 13, 1],
+      "radius": 1.86,
+      "ionization": 6.767,
+      "weight": 51.996,
+      "properti": "transition_metals"
+    },
+    "manganese": {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "energy_level": [2, 8, 13, 2],
+      "radius": 1.79,
+      "ionization": 7.434,
+      "weight": 54.938,
+      "properti": "transition_metals"
+    },
+    "iron": {
+      "symbol": "Fe",
+      "name": "Besi",
+      "energy_level": [2, 8, 14, 2],
+      "radius": 1.72,
+      "ionization": 7.902,
+      "weight": 55.845,
+      "properti": "transition_metals"
+    },
+    "cobalt": {
+      "symbol": "Co",
+      "name": "Kobalt",
+      "energy_level": [2, 8, 15, 2],
+      "radius": 1.66,
+      "ionization": 7.881,
+      "weight": 58.933,
+      "properti": "transition_metals"
+    },
+    "nickel": {
+      "symbol": "Ni",
+      "name": "Nikel",
+      "energy_level": [2, 8, 16, 2],
+      "radius": 1.62,
+      "ionization": 7.64,
+      "weight": 58.693,
+      "properti": "transition_metals"
+    },
+    "copper": {
+      "symbol": "Cu",
+      "name": "Tembaga",
+      "energy_level": [2, 8, 18, 1],
+      "radius": 1.57,
+      "ionization": 7.726,
+      "weight": 63.546,
+      "properti": "transition_metals"
+    },
+    "zinc": {
+      "symbol": "Zn",
+      "name": "Seng",
+      "energy_level": [2, 8, 18, 2],
+      "radius": 1.53,
+      "ionization": 9.394,
+      "weight": 65.38,
+      "properti": "transition_metals"
+    },
+    "gallium": {
+      "symbol": "Ga",
+      "name": "Galium",
+      "energy_level": [2, 8, 18, 3],
+      "radius": 1.81,
+      "ionization": 5.976,
+      "weight": 69.723,
+      "properti": "post-transition_metals"
+    },
+    "germanium": {
+      "symbol": "Ge",
+      "name": "Germanium",
+      "energy_level": [2, 8, 18, 4],
+      "radius": 1.52,
+      "ionization": 7.899,
+      "weight": 72.63,
+      "properti": "metalloids"
+    },
+    "arsenic": {
+      "symbol": "As",
+      "name": "Arsen",
+      "energy_level": [2, 8, 18, 5],
+      "radius": 1.33,
+      "ionization": 9.789,
+      "weight": 74.922,
+      "properti": "metalloids"
+    },
+    "selenium": {
+      "symbol": "Se",
+      "name": "Selenium",
+      "energy_level": [2, 8, 18, 6],
+      "radius": 1.22,
+      "ionization": 9.752,
+      "weight": 78.971,
+      "properti": "nonmetals"
+    },
+    "bromine": {
+      "symbol": "Br",
+      "name": "Brom",
+      "energy_level": [2, 8, 18, 7],
+      "radius": 1.12,
+      "ionization": 11.814,
+      "weight": 79.904,
+      "properti": "nonmetals"
+    },
+    "krypton": {
+      "symbol": "Kr",
+      "name": "Kripton",
+      "energy_level": [2, 8, 18, 8],
+      "radius": 1.03,
+      "ionization": 14.0,
+      "weight": 83.798,
+      "properti": "noble_gas"
+    },
+    "rubidium": {
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "energy_level": [2, 8, 18, 8, 1],
+      "radius": 2.98,
+      "ionization": 4.177,
+      "weight": 85.468,
+      "properti": "alkali_metal"
+    },
+    "strontium": {
+      "symbol": "Sr",
+      "name": "Stronsium",
+      "energy_level": [2, 8, 18, 8, 2],
+      "radius": 2.45,
+      "ionization": 5.695,
+      "weight": 87.62,
+      "properti": "alkaline_earth_metal"
+    },
+    "yttrium": {
+      "symbol": "Y",
+      "name": "Itrium",
+      "energy_level": [2, 8, 18, 9, 2],
+      "radius": 2.27,
+      "ionization": 6.217,
+      "weight": 88.906,
+      "properti": "transition_metals"
+    },
+    "zirconium": {
+      "symbol": "Zr",
+      "name": "Zirkonium",
+      "energy_level": [2, 8, 18, 10, 2],
+      "radius": 2.16,
+      "ionization": 6.634,
+      "weight": 91.224,
+      "properti": "transition_metals"
+    },
+    "niobium": {
+      "symbol": "Nb",
+      "name": "Niobium",
+      "energy_level": [2, 8, 18, 12, 1],
+      "radius": 2.08,
+      "ionization": 6.759,
+      "weight": 92.906,
+      "properti": "transition_metals"
+    },
+    "molybdenum": {
+      "symbol": "Mo",
+      "name": "Molibdenum",
+      "energy_level": [2, 8, 18, 13, 1],
+      "radius": 2.01,
+      "ionization": 7.092,
+      "weight": 95.95,
+      "properti": "transition_metals"
+    },
+    "technetium": {
+      "symbol": "Tc",
+      "name": "Teknesium",
+      "energy_level": [2, 8, 18, 13, 2],
+      "radius": 1.95,
+      "ionization": 7.28,
+      "weight": 98,
+      "properti": "transition_metals"
+    },
+    "ruthenium": {
+      "symbol": "Ru",
+      "name": "Rutenium",
+      "energy_level": [2, 8, 18, 15, 1],
+      "radius": 1.89,
+      "ionization": 7.361,
+      "weight": 101.07,
+      "properti": "transition_metals"
+    },
+    "rhodium": {
+      "symbol": "Rh",
+      "name": "Rodium",
+      "energy_level": [2, 8, 18, 16, 1],
+      "radius": 1.83,
+      "ionization": 7.459,
+      "weight": 102.906,
+      "properti": "transition_metals"
+    },
+    "palladium": {
+      "symbol": "Pd",
+      "name": "Paladium",
+      "energy_level": [2, 8, 18, 18],
+      "radius": 1.79,
+      "ionization": 8.337,
+      "weight": 106.42,
+      "properti": "transition_metals"
+    },
+    "silver": {
+      "symbol": "Ag",
+      "name": "Perak",
+      "energy_level": [2, 8, 18, 18, 1],
+      "radius": 1.75,
+      "ionization": 7.576,
+      "weight": 107.868,
+      "properti": "transition_metals"
+    },
+    "cadmium": {
+      "symbol": "Cd",
+      "name": "Kadmium",
+      "energy_level": [2, 8, 18, 18, 2],
+      "radius": 1.71,
+      "ionization": 8.994,
+      "weight": 112.411,
+      "properti": "transition_metals"
+    },
+    "indium": {
+      "symbol": "In",
+      "name": "Indium",
+      "energy_level": [2, 8, 18, 18, 3],
+      "radius": 2.0,
+      "ionization": 5.786,
+      "weight": 114.818,
+      "properti": "post-transition_metals"
+    },
+    "tin": {
+      "symbol": "Sn",
+      "name": "Timah",
+      "energy_level": [2, 8, 18, 18, 4],
+      "radius": 1.72,
+      "ionization": 7.344,
+      "weight": 118.71,
+      "properti": "post-transition_metals"
+    },
+    "antimony": {
+      "symbol": "Sb",
+      "name": "Antimon",
+      "energy_level": [2, 8, 18, 18, 5],
+      "radius": 1.53,
+      "ionization": 8.608,
+      "weight": 121.76,
+      "properti": "metalloids"
+    },
+    "tellurium": {
+      "symbol": "Te",
+      "name": "Telurium",
+      "energy_level": [2, 8, 18, 18, 6],
+      "radius": 1.42,
+      "ionization": 9.01,
+      "weight": 127.6,
+      "properti": "metalloids"
+    },
+    "iodine": {
+      "symbol": "I",
+      "name": "Iodin",
+      "energy_level": [2, 8, 18, 18, 7],
+      "radius": 1.32,
+      "ionization": 10.451,
+      "weight": 126.904,
+      "properti": "nonmetals"
+    },
+    "xenon": {
+      "symbol": "Xe",
+      "name": "Xenon",
+      "energy_level": [2, 8, 18, 18, 8],
+      "radius": 1.24,
+      "ionization": 12.13,
+      "weight": 131.293,
+      "properti": "noble_gas"
+    },
+    "caesium": {
+      "symbol": "Cs",
+      "name": "Sesium",
+      "energy_level": [2, 8, 18, 18, 8, 1],
+      "radius": 3.34,
+      "ionization": 3.894,
+      "weight": 132.905,
+      "properti": "alkali_metal"
+    },
+    "barium": {
+      "symbol": "Ba",
+      "name": "Barium",
+      "energy_level": [2, 8, 18, 18, 8, 2],
+      "radius": 2.78,
+      "ionization": 5.212,
+      "weight": 137.327,
+      "properti": "alkaline_earth_metal"
+    },
+    "lanthanum": {
+      "symbol": "La",
+      "name": "Lantanum",
+      "energy_level": [2, 8, 18, 18, 9, 2],
+      "radius": 2.74,
+      "ionization": 5.577,
+      "weight": 138.905,
+      "properti": "lanthanide" 
+    },
+    "cerium": {
+      "symbol": "Ce",
+      "name": "Serium",
+      "energy_level": [2, 8, 18, 19, 9, 2],
+      "radius": 2.7,
+      "ionization": 5.539,
+      "weight": 140.116,
+      "properti": "lanthanide"
+    },
+    "praseodymium": {
+      "symbol": "Pr",
+      "name": "Praseodimium",
+      "energy_level": [2, 8, 18, 21, 8, 2],
+      "radius": 2.67,
+      "ionization": 5.473,
+      "weight": 140.908,
+      "properti": "lanthanide"
+    },
+    "neodymium": {
+      "symbol": "Nd",
+      "name": "Neodimium",
+      "energy_level": [2, 8, 18, 22, 8, 2],
+      "radius": 2.64,
+      "ionization": 5.525,
+      "weight": 144.242,
+      "properti": "lanthanide"
+    },
+    "promethium": {
+      "symbol": "Pm",
+      "name": "Prometium",
+      "energy_level": [2, 8, 18, 23, 8, 2],
+      "radius": 2.62,
+      "ionization": 5.582,
+      "weight": 145,
+      "properti": "lanthanide"
+    },
+    "samarium": {
+      "symbol": "Sm",
+      "name": "Samarium",
+      "energy_level": [2, 8, 18, 24, 8, 2],
+      "radius": 2.59,
+      "ionization": 5.644,
+      "weight": 150.36,
+      "properti": "lanthanide"
+    },
+    "europium": {
+      "symbol": "Eu",
+      "name": "Europium",
+      "energy_level": [2, 8, 18, 25, 8, 2],
+      "radius": 2.56,
+      "ionization": 5.67,
+      "weight": 151.964,
+      "properti": "lanthanide"
+    },
+    "gadolinium": {
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "energy_level": [2, 8, 18, 25, 9, 2],
+      "radius": 2.54,
+      "ionization": 6.15,
+      "weight": 157.25,
+      "properti": "lanthanide"
+    },
+    "terbium": {
+      "symbol": "Tb",
+      "name": "Terbium",
+      "energy_level": [2, 8, 18, 27, 8, 2],
+      "radius": 2.51,
+      "ionization": 5.864,
+      "weight": 158.925,
+      "properti": "lanthanide"
+    },
+    "dysprosium": {
+      "symbol": "Dy",
+      "name": "Disprosium",
+      "energy_level": [2, 8, 18, 28, 8, 2],
+      "radius": 2.49,
+      "ionization": 5.939,
+      "weight": 162.5,
+      "properti": "lanthanide"
+    },
+    "holmium": {
+      "symbol": "Ho",
+      "name": "Holmium",
+      "energy_level": [2, 8, 18, 29, 8, 2],
+      "radius": 2.47,
+      "ionization": 6.022,
+      "weight": 164.93,
+      "properti": "lanthanide"
+    },
+    "erbium": {
+      "symbol": "Er",
+      "name": "Erbium",
+      "energy_level": [2, 8, 18, 30, 8, 2],
+      "radius": 2.45,
+      "ionization": 6.108,
+      "weight": 167.259,
+      "properti": "lanthanide"
+    },
+    "thulium": {
+      "symbol": "Tm",
+      "name": "Tulium",
+      "energy_level": [2, 8, 18, 31, 8, 2],
+      "radius": 2.42,
+      "ionization": 6.184,
+      "weight": 168.934,
+      "properti": "lanthanide"
+    },
+    "ytterbium": {
+      "symbol": "Yb",
+      "name": "Iterbium",
+      "energy_level": [2, 8, 18, 32, 8, 2],
+      "radius": 2.4,
+      "ionization": 6.254,
+      "weight": 173.04,
+      "properti": "lanthanide"
+    },
+    "lutetium": {
+      "symbol": "Lu",
+      "name": "Lutesium",
+      "energy_level": [2, 8, 18, 32, 9, 2],
+      "radius": 2.25,
+      "ionization": 5.426,
+      "weight": 174.967,
+      "properti": "lanthanide"
+    },
+    "hafnium": {
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "energy_level": [2, 8, 18, 32, 10, 2],
+      "radius": 2.16,
+      "ionization": 6.825,
+      "weight": 178.49,
+      "properti": "transition_metals"
+    },
+    "tantalum": {
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "energy_level": [2, 8, 18, 32, 11, 2],
+      "radius": 2.09,
+      "ionization": 7.55,
+      "weight": 180.948,
+      "properti": "transition_metals"
+    },
+    "tungsten": {
+      "symbol": "W",
+      "name": "Tungsten",
+      "energy_level": [2, 8, 18, 32, 12, 2],
+      "radius": 2.02,
+      "ionization": 7.864,
+      "weight": 183.84,
+      "properti": "transition_metals"
+    },
+    "rhenium": {
+      "symbol": "Re",
+      "name": "Renium",
+      "energy_level": [2, 8, 18, 32, 13, 2],
+      "radius": 1.97,
+      "ionization": 7.833,
+      "weight": 186.207,
+      "properti": "transition_metals"
+    },
+    "osmium": {
+      "symbol": "Os",
+      "name": "Osmium",
+      "energy_level": [2, 8, 18, 32, 14, 2],
+      "radius": 1.92,
+      "ionization": 8.438,
+      "weight": 190.23,
+      "properti": "transition_metals"
+    },
+    "iridium": {
+      "symbol": "Ir",
+      "name": "Iridium",
+      "energy_level": [2, 8, 18, 32, 15, 2],
+      "radius": 1.87,
+      "ionization": 8.967,
+      "weight": 192.217,
+      "properti": "transition_metals"
+    },
+    "platinum": {
+      "symbol": "Pt",
+      "name": "Platina",
+      "energy_level": [2, 8, 18, 32, 17, 1],
+      "radius": 1.83,
+      "ionization": 8.959,
+      "weight": 195.084,
+      "properti": "transition_metals"
+    },
+    "gold": {
+      "symbol": "Au",
+      "name": "Emas",
+      "energy_level": [2, 8, 18, 32, 18, 1],
+      "radius": 1.79,
+      "ionization": 9.226,
+      "weight": 196.967,
+      "properti": "transition_metals"
+    },
+    "mercury": {
+      "symbol": "Hg",
+      "name": "Raksa",
+      "energy_level": [2, 8, 18, 32, 18, 2],
+      "radius": 1.76,
+      "ionization": 10.438,
+      "weight": 200.59,
+      "properti": "transition_metals"
+    },
+    "thallium": {
+      "symbol": "Tl",
+      "name": "Talium",
+      "energy_level": [2, 8, 18, 32, 18, 3],
+      "radius": 2.08,
+      "ionization": 6.108,
+      "weight": 204.383,
+      "properti": "post-transition_metals"
+    },
+    "lead": {
+      "symbol": "Pb",
+      "name": "Timbal",
+      "energy_level": [2, 8, 18, 32, 18, 4],
+      "radius": 1.81,
+      "ionization": 7.417,
+      "weight": 207.2,
+      "properti": "post-transition_metals"
+    },
+    "bismuth": {
+      "symbol": "Bi",
+      "name": "Bismut",
+      "energy_level": [2, 8, 18, 32, 18, 5],
+      "radius": 1.63,
+      "ionization": 7.289,
+      "weight": 208.98,
+      "properti": "post-transition_metals"
+    },
+    "polonium": {
+      "symbol": "Po",
+      "name": "Polonium",
+      "energy_level": [2, 8, 18, 32, 18, 6],
+      "radius": 1.53,
+      "ionization": 8.417,
+      "weight": 209,
+      "properti": "metalloids"
+    },
+    "astatine": {
+      "symbol": "At",
+      "name": "Astatin",
+      "energy_level": [2, 8, 18, 32, 18, 7],
+      "radius": 1.43,
+      "ionization": 9.3, 
+      "weight": 210,
+      "properti": "metalloids" 
+    },
+    "radon": {
+      "symbol": "Rn",
+      "name": "Radon",
+      "energy_level": [2, 8, 18, 32, 18, 8],
+      "radius": 1.34,
+      "ionization": 10.749,
+      "weight": 222,
+      "properti": "noble_gas"
+    },
+    "francium": {
+      "symbol": "Fr",
+      "name": "Fransium",
+      "energy_level": [2, 8, 18, 32, 18, 8, 1],
+      "radius": null, 
+      "ionization": 4.07,
+      "weight": 223,
+      "properti": "alkali_metal"
+    },
+    "radium": {
+      "symbol": "Ra",
+      "name": "Radium",
+      "energy_level": [2, 8, 18, 32, 18, 8, 2],
+      "radius": null, 
+      "ionization": 5.279,
+      "weight": 226,
+      "properti": "alkaline_earth_metal"
+    },
+    "actinium": {
+      "symbol": "Ac",
+      "name": "Aktinium",
+      "energy_level": [2, 8, 18, 32, 18, 9, 2],
+      "radius": null, 
+      "ionization": 5.17,
+      "weight": 227,
+      "properti": "achinide"
+    },
+    "thorium": {
+      "symbol": "Th",
+      "name": "Torium",
+      "energy_level": [2, 8, 18, 32, 18, 10, 2],
+      "radius": 2.49,
+      "ionization": 6.307,
+      "weight": 232.038,
+      "properti": "achinide"
+    },
+    "protactinium": {
+      "symbol": "Pa",
+      "name": "Protaktinium",
+      "energy_level": [2, 8, 18, 32, 20, 9, 2],
+      "radius": 2.43,
+      "ionization": 5.89,
+      "weight": 231.036,
+      "properti": "achinide"
+    },
+    "uranium": {
+      "symbol": "U",
+      "name": "Uranium",
+      "energy_level": [2, 8, 18, 32, 21, 9, 2],
+      "radius": 2.4,
+      "ionization": 6.194,
+      "weight": 238.029,
+      "properti": "achinide"
+    },
+    "neptunium": {
+      "symbol": "Np",
+      "name": "Neptunium",
+      "energy_level": [2, 8, 18, 32, 22, 9, 2],
+      "radius": 2.36,
+      "ionization": 6.266,
+      "weight": 237,
+      "properti": "achinide"
+    },
+    "plutonium": {
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "energy_level": [2, 8, 18, 32, 24, 8, 2],
+      "radius": 2.35,
+      "ionization": 6.026,
+      "weight": 244,
+      "properti": "achinide"
+    },
+    "americium": {
+      "symbol": "Am",
+      "name": "Amerisium",
+      "energy_level": [2, 8, 18, 32, 25, 8, 2],
+      "radius": 2.33,
+      "ionization": 5.974,
+      "weight": 243,
+      "properti": "achinide"
+    },
+    "curium": {
+      "symbol": "Cm",
+      "name": "Kurium",
+      "energy_level": [2, 8, 18, 32, 25, 9, 2],
+      "radius": 2.32,
+      "ionization": 5.991,
+      "weight": 247,
+      "properti": "achinide"
+    },
+    "berkelium": {
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "energy_level": [2, 8, 18, 32, 27, 8, 2],
+      "radius": 2.31,
+      "ionization": 6.198,
+      "weight": 247,
+      "properti": "achinide"
+    },
+    "californium": {
+      "symbol": "Cf",
+      "name": "Kalifornium",
+      "energy_level": [2, 8, 18, 32, 28, 8, 2],
+      "radius": 2.3,
+      "ionization": 6.282,
+      "weight": 251,
+      "properti": "achinide"
+    },
+    "einsteinium": {
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "energy_level": [2, 8, 18, 32, 29, 8, 2],
+      "radius": 2.29,
+      "ionization": 6.42,
+      "weight": 252,
+      "properti": "achinide"
+    },
+    "fermium": {
+      "symbol": "Fm",
+      "name": "Fermium",
+      "energy_level": [2, 8, 18, 32, 30, 8, 2],
+      "radius": 2.28,
+      "ionization": 6.5,
+      "weight": 257,
+      "properti": "achinide"
+    },
+    "mendelevium": {
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "energy_level": [2, 8, 18, 32, 31, 8, 2],
+      "radius": 2.28,
+      "ionization": 6.58,
+      "weight": 258,
+      "properti": "achinide"
+    },
+    "nobelium": {
+      "symbol": "No",
+      "name": "Nobelium",
+      "energy_level": [2, 8, 18, 32, 32, 8, 2],
+      "radius": 2.27,
+      "ionization": 6.65,
+      "weight": 259,
+      "properti": "achinide"
+    },
+    "lawrencium": {
+      "symbol": "Lr",
+      "name": "Lawrensium",
+      "energy_level": [2, 8, 18, 32, 32, 8, 3],
+      "radius": null,
+      "ionization": null, 
+      "weight": 266,
+      "properti": "achinide"
+    }
+  },
+  "table_comp_elements": [
+    ["hydrogen", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "helium"],
+    ["lithium", "beryllium", null, null, null, null, null, null, null, null, null, null, "boron", "carbon", "nitrogen", "oxygen", "fluorine", "neon"],
+    ["sodium", "magnesium", null, null, null, null, null, null, null, null, null, null, "aluminium", "silicon", "phosphorus", "sulfur", "chlorine", "argon"],
+    ["potassium", "calcium", "scandium", "titanium", "vanadium", "chromium", "manganese", "iron", "cobalt", "nickel", "copper", "zinc", "gallium", "germanium", "arsenic", "selenium", "bromine", "krypton"],
+    ["rubidium", "strontium", "yttrium", "zirconium", "niobium", "molybdenum", "technetium", "ruthenium", "rhodium", "palladium", "silver", "cadmium", "indium", "tin", "antimony", "tellurium", "iodine", "xenon"],
+    ["caesium", "barium", "lanthanum", "hafnium", "tantalum", "tungsten", "rhenium", "osmium", "iridium", "platinum", "gold", "mercury", "thallium", "lead", "bismuth", "polonium", "astatine", "radon"],
+    ["francium", "radium", "actinium", "rutherfordium", "dubnium", "seaborgium", "bohrium", "hassium", "meitnerium", "darmstadtium", "roentgenium", "copernicium", "nihonium", "flerovium", "moscovium", "livermorium", "tennessine", "oganesson"],
+    [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+    [null, null, "cerium", "praseodymium", "neodymium", "promethium", "samarium", "europium", "gadolinium", "terbium", "dysprosium", "holmium", "erbium", "thulium", "ytterbium", "lutetium", null, null],
+    [null, null, "thorium", "protactinium", "uranium", "neptunium", "plutonium", "americium", "curium", "berkelium", "californium", "einsteinium", "fermium", "mendelevium", "nobelium", "lawrencium", null, null]
+  ]
+}
